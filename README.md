@@ -1,15 +1,41 @@
-<h1 align="center">Hi 👋, I'm Ritesh Barman</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
+<h1 align="center">Hi  I'm Ritesh Barman</h1>
+<h3 align="center">Frontend Developer | 3D Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  🚀 Currently diving deeper into <strong>Node.js</strong>, <strong>MongoDB</strong>, and <strong>Three.js</strong><br/>
-  📫 Reach me at: <a href="mailto:ritesbarman02@gmail.com">ritesbarman02@gmail.com</a><br/>
-  🧾 View my resume: <a href="https://docs.google.com/document/d/1uIYZNP-taGEJ3QDS1oEvhWszPzj1h3OFoEvWFUdctTc/edit?usp=drive_link" target="_blank">Resume</a>
+  I'm a creative and detail-oriented developer from India 🇮🇳 with a strong passion for building beautiful, responsive, and interactive web applications.<br/>
+  I enjoy turning complex problems into simple, intuitive, and dynamic user interfaces.
 </p>
 
 ---
 
-### 🌐 Connect with me
+###  About Me
+
+-  I'm a Computer Science student with a strong foundation in web technologies and programming.
+-  Currently exploring:
+  - Full-stack development with **Node.js** and **MongoDB**
+  - **Three.js** for creating 3D visual experiences in the browser
+  - Modern frontend tools like **React**, **Tailwind CSS**, and **Vite**
+-  I'm always excited to collaborate on open-source projects and learn from the dev community.
+-  I believe in *learning by building*, and my GitHub reflects that spirit.
+
+---
+
+###  What I'm Working On
+
+-  Developing 3D interactive interfaces using **Three.js** and **React Three Fiber**
+-  Building full-stack applications with **MERN stack**
+-  Writing clean and scalable code with best practices in mind
+
+---
+
+###  How to Reach Me
+
+- Email: **[ritesbarman02@gmail.com](mailto:ritesbarman02@gmail.com)**
+- Resume: [📄](https://docs.google.com/document/d/1uIYZNP-taGEJ3QDS1oEvhWszPzj1h3OFoEvWFUdctTc/edit?usp=drive_link)
+
+---
+
+###  Connect With Me
 
 <p align="left">
   <a href="https://twitter.com/riteshbarman13" target="_blank">
@@ -25,7 +51,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+###  Languages & Tools
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
@@ -42,18 +68,18 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riteshbarman&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshbarman&theme=github-dark" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=riteshbarman02&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshbarman02&theme=github-dark" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
 
-### 📌 Fun Fact
+### Fun Fact
 
-I love creating interactive web experiences and experimenting with 3D graphics using Three.js!
+> I believe design and development go hand in hand — that's why I love building things that *look good* and *work even better* 
 
 ---
 
