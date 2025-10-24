@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | 3D Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  I'm a creative and detail-oriented developer from India 🇮🇳 with a strong passion for building beautiful, responsive, and interactive web applications.<br/>
+  I'm a creative and detail-oriented developer from India with a strong passion for building beautiful, responsive, and interactive web applications.<br/>
   I enjoy turning complex problems into simple, intuitive, and dynamic user interfaces.
 </p>
 
