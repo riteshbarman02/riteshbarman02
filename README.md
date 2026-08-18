@@ -69,13 +69,6 @@
 
 ---
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riteshbarman02&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180"/>
-</p>
-
----
 
 ### Fun Fact
 
